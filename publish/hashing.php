@@ -13,6 +13,7 @@ declare(strict_types=1);
 use HyperfExt\Hashing\Driver\Argon2IdDriver;
 use HyperfExt\Hashing\Driver\Argon2IDriver;
 use HyperfExt\Hashing\Driver\BcryptDriver;
+
 use function Hyperf\Support\env;
 
 /*
