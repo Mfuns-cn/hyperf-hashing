@@ -14,6 +14,8 @@ use HyperfExt\Hashing\Driver\Argon2IdDriver;
 use HyperfExt\Hashing\Driver\Argon2IDriver;
 use HyperfExt\Hashing\Driver\BcryptDriver;
 
+use function Hyperf\Support\env;
+
 /*
  * This file is part of hyperf-ext/hashing.
  *
